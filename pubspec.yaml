@@ -1,0 +1,16 @@
+name: tlm_paper
+description: Angular Bootstrap with Material Design Sass source (free version)
+version: 1.0.0
+author: TLM <source@legionmarket.com>
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+   md_bootstrap_scss:
+    git: https://github.com/dart-land/md_bootstrap_scss
+
+dev_dependencies:
+  build_test: ^0.10.3+3
+  build_runner: ^1.1.2
+  build_web_compilers: ^0.4.4+2
+  sass_builder: ^2.1.2
