@@ -5,9 +5,9 @@ author: TLM <source@legionmarket.com>
 environment:
   sdk: '>=2.1.0 <3.0.0'
 
-dependencies:
-   md_bootstrap_scss:
-    git: https://github.com/dart-land/md_bootstrap_scss
+# dependencies:
+#    md_bootstrap_scss:
+#     git: https://github.com/dart-land/md_bootstrap_scss
 
 dev_dependencies:
   build_runner: ^1.1.2

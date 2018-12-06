@@ -1,1 +1,1 @@
-git add -A && git commit -m "changed sass build" && git push
+git add -A && git commit -m "removed md_bootstrap_scss from deps" && git push
