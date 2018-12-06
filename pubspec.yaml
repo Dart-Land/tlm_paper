@@ -1,6 +1,6 @@
 name: tlm_paper
 description: Angular Bootstrap with Material Design Sass source (free version)
-version: 1.0.0
+version: 1.0.1
 author: TLM <source@legionmarket.com>
 environment:
   sdk: '>=2.1.0 <3.0.0'
