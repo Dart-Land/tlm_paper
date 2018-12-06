@@ -1,1 +1,1 @@
-git add -A && git commit -m "changed build steps" && git push
+git add -A && git commit -m "removed web" && git push
